@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/leocircuits/static/css/main.5ef55039.css",
+    "main.js": "/leocircuits/static/js/main.b78b8a3f.js",
+    "index.html": "/leocircuits/index.html",
+    "main.5ef55039.css.map": "/leocircuits/static/css/main.5ef55039.css.map",
+    "main.b78b8a3f.js.map": "/leocircuits/static/js/main.b78b8a3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ef55039.css",
+    "static/js/main.b78b8a3f.js"
+  ]
+}
